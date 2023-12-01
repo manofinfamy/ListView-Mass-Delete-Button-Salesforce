@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>MassDeleteExtension</members>
+		<members>MassDeleteExtensionTest</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>Mass_Delete_Account</members>
+		<members>Mass_Delete_Asset</members>
+		<members>Mass_Delete_Campaign</members>
+		<members>Mass_Delete_Case</members>
+		<members>Mass_Delete_Contact</members>
+		<members>Mass_Delete_Contract</members>
+		<members>Mass_Delete_Lead</members>
+		<members>Mass_Delete_Opportunity</members>
+		<members>Mass_Delete_Product2</members>
+		<members>Mass_Delete_Solution</members>
+		<name>ApexPage</name>
+	</types>
+	<types>
+		<members>Account.Mass_Delete_Records</members>
+		<members>Asset.Mass_Delete_Records</members>
+		<members>Campaign.Mass_Delete_Records</members>
+		<members>Case.Mass_Delete_Records</members>
+		<members>Contact.Mass_Delete_Records</members>
+		<members>Contract.Mass_Delete_Records</members>
+		<members>Lead.Mass_Delete_Records</members>
+		<members>Opportunity.Mass_Delete_Records</members>
+		<members>Product2.Mass_Delete_Records</members>
+		<members>Solution.Mass_Delete_Records</members>
+		<name>WebLink</name>
+	</types>
+	<version>58.0</version>
+</Package>
