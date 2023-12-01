@@ -19,6 +19,10 @@
 		<name>ApexPage</name>
 	</types>
 	<types>
+		<members>mdslds212</members>
+		<name>StaticResource</name>
+	</types>
+	<types>
 		<members>Account.Mass_Delete_Records</members>
 		<members>Asset.Mass_Delete_Records</members>
 		<members>Campaign.Mass_Delete_Records</members>
